@@ -1,0 +1,1 @@
+print("Archivo creado con VS y lo sincronizaré con VS")
